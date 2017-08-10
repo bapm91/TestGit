@@ -69,3 +69,6 @@ git branch (name)
 git checkout (name)
 git remote add origin (https://github.com/ .. )
 git push -u origin master
+git help
+git help (термин)
+git help (команда)
