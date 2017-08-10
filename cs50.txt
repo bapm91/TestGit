@@ -58,3 +58,14 @@ sudo apt-get install upgrate - скачивание и установка обновлений
 sudo pppoeconf - 	настройка нового подключения через PPPOE соединение
 sudo poff dsl-provider - разорвать соединение через PPPOE(отключить)
 sudo pon dsl-provider -	подключиться с существующими настройками к интернету
+
+________________________________команды git_______________________________________
+git init
+git status
+git add .
+git commit -m ""
+git branch
+git branch (name)
+git checkout (name)
+git remote add origin (https://github.com/ .. )
+git push -u origin master
